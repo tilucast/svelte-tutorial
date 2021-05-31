@@ -2,6 +2,7 @@
 	import Part1 from './part1.svelte'
 	import Part2 from './part2.svelte';
 	import Part3 from './part3.svelte';
+	import Part4 from './part4.svelte';
 </script>
 
 <style>
@@ -23,4 +24,5 @@
 	<!-- <Part1 /> -->
 	<!-- <Part2 /> -->
 	<!-- <Part3 properties={part3obj}/> -->
+	<Part4 />
 </main>
