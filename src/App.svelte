@@ -3,6 +3,12 @@
 	import Part2 from './part2.svelte';
 	import Part3 from './part3.svelte';
 	import Part4 from './part4.svelte';
+import Part5_2 from './part5-2.svelte';
+	import Part5 from './part5.svelte';
+
+	function capturingeventdispatcher(event){
+		alert(event.detail.text)
+	}
 </script>
 
 <style>
@@ -24,5 +30,7 @@
 	<!-- <Part1 /> -->
 	<!-- <Part2 /> -->
 	<!-- <Part3 properties={part3obj}/> -->
-	<Part4 />
+	<!-- <Part4 /> -->
+	<!-- <Part5 on:message={capturingeventdispatcher} /> -->
+	<!-- <Part5_2 on:message={capturingeventdispatcher} /> -->
 </main>
