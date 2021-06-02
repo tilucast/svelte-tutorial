@@ -13,6 +13,10 @@
 	import Part6_6 from './part6/part6-6.svelte';
 import Part6_7 from './part6/part6-7.svelte';
 import Part6_8 from './part6/part6-8.svelte';
+import Part7_1 from './part7/part7-1.svelte';
+import Part7_2 from './part7/part7-2.svelte';
+import Part7_3 from './part7/part7-3.svelte';
+import Part7_4 from './part7/part7-4.svelte';
 
 	// function capturingeventdispatcher(event){
 	// 	alert(event.detail.text)
@@ -48,5 +52,9 @@ import Part6_8 from './part6/part6-8.svelte';
 	<!-- <Part6_5 /> -->
 	<!-- <Part6_6 /> -->
 	<!-- <Part6_7 /> -->
-	<Part6_8 />
+	<!-- <Part6_8 /> -->
+	<!-- <Part7_1 /> -->
+	<!-- <Part7_2 /> -->
+	<!-- <Part7_3 /> -->
+	<Part7_4 />
 </main>
