@@ -1,5 +1,8 @@
 <script lang="ts">
 import Part1 from './part1.svelte'
+import Part10_1 from './part10/part10-1.svelte';
+import Part10_2 from './part10/part10-2.svelte';
+import Part10_3 from './part10/part10-3.svelte';
 import Part2 from './part2.svelte';
 import Part3 from './part3.svelte';
 import Part4 from './part4.svelte';
@@ -62,5 +65,8 @@ import Part9_2 from './part9/part9-2.svelte';
 	<!-- <Part7_4 /> -->
 	<!-- <Part8_1 /> -->
 	<!-- <Part9_1 /> -->
-	<Part9_2 />
+	<!-- <Part9_2 /> -->
+	<!-- <Part10_1 /> -->
+	<!-- <Part10_2 /> -->
+	<Part10_3 />
 </main>
