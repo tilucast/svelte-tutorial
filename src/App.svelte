@@ -1,22 +1,23 @@
 <script lang="ts">
-	import Part1 from './part1.svelte'
-	import Part2 from './part2.svelte';
-	import Part3 from './part3.svelte';
-	import Part4 from './part4.svelte';
-	import Part5_2 from './part5-2.svelte';
-	import Part5 from './part5.svelte';
-	import Part6_1 from './part6/part6-1.svelte';
-	import Part6_2 from './part6/part6-2.svelte';
-	import Part6_3 from './part6/part6-3.svelte';
-	import Part6_4 from './part6/part6-4.svelte';
-	import Part6_5 from './part6/part6-5.svelte';
-	import Part6_6 from './part6/part6-6.svelte';
+import Part1 from './part1.svelte'
+import Part2 from './part2.svelte';
+import Part3 from './part3.svelte';
+import Part4 from './part4.svelte';
+import Part5_2 from './part5-2.svelte';
+import Part5 from './part5.svelte';
+import Part6_1 from './part6/part6-1.svelte';
+import Part6_2 from './part6/part6-2.svelte';
+import Part6_3 from './part6/part6-3.svelte';
+import Part6_4 from './part6/part6-4.svelte';
+import Part6_5 from './part6/part6-5.svelte';
+import Part6_6 from './part6/part6-6.svelte';
 import Part6_7 from './part6/part6-7.svelte';
 import Part6_8 from './part6/part6-8.svelte';
 import Part7_1 from './part7/part7-1.svelte';
 import Part7_2 from './part7/part7-2.svelte';
 import Part7_3 from './part7/part7-3.svelte';
 import Part7_4 from './part7/part7-4.svelte';
+import Part8_1 from './part8/stores1/part8-1.svelte';
 
 	// function capturingeventdispatcher(event){
 	// 	alert(event.detail.text)
@@ -56,5 +57,6 @@ import Part7_4 from './part7/part7-4.svelte';
 	<!-- <Part7_1 /> -->
 	<!-- <Part7_2 /> -->
 	<!-- <Part7_3 /> -->
-	<Part7_4 />
+	<!-- <Part7_4 /> -->
+	<Part8_1 />
 </main>
