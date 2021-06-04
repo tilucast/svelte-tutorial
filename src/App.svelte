@@ -3,6 +3,8 @@ import Part1 from './part1.svelte'
 import Part10_1 from './part10/part10-1.svelte';
 import Part10_2 from './part10/part10-2.svelte';
 import Part10_3 from './part10/part10-3.svelte';
+import Part11_1 from './part11/part11-1.svelte';
+import Part11_2 from './part11/part11-2.svelte';
 import Part2 from './part2.svelte';
 import Part3 from './part3.svelte';
 import Part4 from './part4.svelte';
@@ -68,5 +70,7 @@ import Part9_2 from './part9/part9-2.svelte';
 	<!-- <Part9_2 /> -->
 	<!-- <Part10_1 /> -->
 	<!-- <Part10_2 /> -->
-	<Part10_3 />
+	<!-- <Part10_3 /> -->
+	<!-- <Part11_1 /> -->
+	<Part11_2 />
 </main>
